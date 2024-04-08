@@ -6,8 +6,8 @@
 ### Clone the repo
 
 ```bash
-git clone https://github.com/xyz/zipzod@latest
-cd zipzod
+git clone https://github.com/farisbrandone/RSS_SERVER.git
+cd RSS_SERVER
 ```
 
 ### Build the project
@@ -19,7 +19,7 @@ go build
 ### Run the project
 
 ```bash
-./zipzod -i ./input -o ./output.zip
+./RSS_SERVER
 ```
 
 ### Run the tests
